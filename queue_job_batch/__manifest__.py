@@ -30,6 +30,5 @@
             "queue_job_batch/static/src/**/*.scss",
         ],
     'installable': False,
-},
-    'installable': False,
+    }
 }
